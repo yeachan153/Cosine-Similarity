@@ -1,0 +1,422 @@
+{
+    "1789-Washington": {
+        "collection": "inaugural",
+        "fid": "1789-Washington",
+        "filename": "corpus/1789-Washington.txt"
+    },
+    "1793-Washington": {
+        "collection": "inaugural",
+        "fid": "1793-Washington",
+        "filename": "corpus/1793-Washington.txt"
+    },
+    "1797-Adams": {
+        "collection": "inaugural",
+        "fid": "1797-Adams",
+        "filename": "corpus/1797-Adams.txt"
+    },
+    "1801-Jefferson": {
+        "collection": "inaugural",
+        "fid": "1801-Jefferson",
+        "filename": "corpus/1801-Jefferson.txt"
+    },
+    "1805-Jefferson": {
+        "collection": "inaugural",
+        "fid": "1805-Jefferson",
+        "filename": "corpus/1805-Jefferson.txt"
+    },
+    "1809-Madison": {
+        "collection": "inaugural",
+        "fid": "1809-Madison",
+        "filename": "corpus/1809-Madison.txt"
+    },
+    "1813-Madison": {
+        "collection": "inaugural",
+        "fid": "1813-Madison",
+        "filename": "corpus/1813-Madison.txt"
+    },
+    "1817-Monroe": {
+        "collection": "inaugural",
+        "fid": "1817-Monroe",
+        "filename": "corpus/1817-Monroe.txt"
+    },
+    "1821-Monroe": {
+        "collection": "inaugural",
+        "fid": "1821-Monroe",
+        "filename": "corpus/1821-Monroe.txt"
+    },
+    "1825-Adams": {
+        "collection": "inaugural",
+        "fid": "1825-Adams",
+        "filename": "corpus/1825-Adams.txt"
+    },
+    "1829-Jackson": {
+        "collection": "inaugural",
+        "fid": "1829-Jackson",
+        "filename": "corpus/1829-Jackson.txt"
+    },
+    "1833-Jackson": {
+        "collection": "inaugural",
+        "fid": "1833-Jackson",
+        "filename": "corpus/1833-Jackson.txt"
+    },
+    "1837-VanBuren": {
+        "collection": "inaugural",
+        "fid": "1837-VanBuren",
+        "filename": "corpus/1837-VanBuren.txt"
+    },
+    "1841-Harrison": {
+        "collection": "inaugural",
+        "fid": "1841-Harrison",
+        "filename": "corpus/1841-Harrison.txt"
+    },
+    "1845-Polk": {
+        "collection": "inaugural",
+        "fid": "1845-Polk",
+        "filename": "corpus/1845-Polk.txt"
+    },
+    "1849-Taylor": {
+        "collection": "inaugural",
+        "fid": "1849-Taylor",
+        "filename": "corpus/1849-Taylor.txt"
+    },
+    "1853-Pierce": {
+        "collection": "inaugural",
+        "fid": "1853-Pierce",
+        "filename": "corpus/1853-Pierce.txt"
+    },
+    "1857-Buchanan": {
+        "collection": "inaugural",
+        "fid": "1857-Buchanan",
+        "filename": "corpus/1857-Buchanan.txt"
+    },
+    "1861-Lincoln": {
+        "collection": "inaugural",
+        "fid": "1861-Lincoln",
+        "filename": "corpus/1861-Lincoln.txt"
+    },
+    "1865-Lincoln": {
+        "collection": "inaugural",
+        "fid": "1865-Lincoln",
+        "filename": "corpus/1865-Lincoln.txt"
+    },
+    "1869-Grant": {
+        "collection": "inaugural",
+        "fid": "1869-Grant",
+        "filename": "corpus/1869-Grant.txt"
+    },
+    "1873-Grant": {
+        "collection": "inaugural",
+        "fid": "1873-Grant",
+        "filename": "corpus/1873-Grant.txt"
+    },
+    "1877-Hayes": {
+        "collection": "inaugural",
+        "fid": "1877-Hayes",
+        "filename": "corpus/1877-Hayes.txt"
+    },
+    "1881-Garfield": {
+        "collection": "inaugural",
+        "fid": "1881-Garfield",
+        "filename": "corpus/1881-Garfield.txt"
+    },
+    "1885-Cleveland": {
+        "collection": "inaugural",
+        "fid": "1885-Cleveland",
+        "filename": "corpus/1885-Cleveland.txt"
+    },
+    "1889-Harrison": {
+        "collection": "inaugural",
+        "fid": "1889-Harrison",
+        "filename": "corpus/1889-Harrison.txt"
+    },
+    "1893-Cleveland": {
+        "collection": "inaugural",
+        "fid": "1893-Cleveland",
+        "filename": "corpus/1893-Cleveland.txt"
+    },
+    "1897-McKinley": {
+        "collection": "inaugural",
+        "fid": "1897-McKinley",
+        "filename": "corpus/1897-McKinley.txt"
+    },
+    "1901-McKinley": {
+        "collection": "inaugural",
+        "fid": "1901-McKinley",
+        "filename": "corpus/1901-McKinley.txt"
+    },
+    "1905-Roosevelt": {
+        "collection": "inaugural",
+        "fid": "1905-Roosevelt",
+        "filename": "corpus/1905-Roosevelt.txt"
+    },
+    "1909-Taft": {
+        "collection": "inaugural",
+        "fid": "1909-Taft",
+        "filename": "corpus/1909-Taft.txt"
+    },
+    "1913-Wilson": {
+        "collection": "inaugural",
+        "fid": "1913-Wilson",
+        "filename": "corpus/1913-Wilson.txt"
+    },
+    "1917-Wilson": {
+        "collection": "inaugural",
+        "fid": "1917-Wilson",
+        "filename": "corpus/1917-Wilson.txt"
+    },
+    "1921-Harding": {
+        "collection": "inaugural",
+        "fid": "1921-Harding",
+        "filename": "corpus/1921-Harding.txt"
+    },
+    "1925-Coolidge": {
+        "collection": "inaugural",
+        "fid": "1925-Coolidge",
+        "filename": "corpus/1925-Coolidge.txt"
+    },
+    "1929-Hoover": {
+        "collection": "inaugural",
+        "fid": "1929-Hoover",
+        "filename": "corpus/1929-Hoover.txt"
+    },
+    "1933-Roosevelt": {
+        "collection": "inaugural",
+        "fid": "1933-Roosevelt",
+        "filename": "corpus/1933-Roosevelt.txt"
+    },
+    "1937-Roosevelt": {
+        "collection": "inaugural",
+        "fid": "1937-Roosevelt",
+        "filename": "corpus/1937-Roosevelt.txt"
+    },
+    "1941-Roosevelt": {
+        "collection": "inaugural",
+        "fid": "1941-Roosevelt",
+        "filename": "corpus/1941-Roosevelt.txt"
+    },
+    "1945-Roosevelt": {
+        "collection": "inaugural",
+        "fid": "1945-Roosevelt",
+        "filename": "corpus/1945-Roosevelt.txt"
+    },
+    "1949-Truman": {
+        "collection": "inaugural",
+        "fid": "1949-Truman",
+        "filename": "corpus/1949-Truman.txt"
+    },
+    "1953-Eisenhower": {
+        "collection": "inaugural",
+        "fid": "1953-Eisenhower",
+        "filename": "corpus/1953-Eisenhower.txt"
+    },
+    "1957-Eisenhower": {
+        "collection": "inaugural",
+        "fid": "1957-Eisenhower",
+        "filename": "corpus/1957-Eisenhower.txt"
+    },
+    "1961-Kennedy": {
+        "collection": "inaugural",
+        "fid": "1961-Kennedy",
+        "filename": "corpus/1961-Kennedy.txt"
+    },
+    "1965-Johnson": {
+        "collection": "inaugural",
+        "fid": "1965-Johnson",
+        "filename": "corpus/1965-Johnson.txt"
+    },
+    "1969-Nixon": {
+        "collection": "inaugural",
+        "fid": "1969-Nixon",
+        "filename": "corpus/1969-Nixon.txt"
+    },
+    "1973-Nixon": {
+        "collection": "inaugural",
+        "fid": "1973-Nixon",
+        "filename": "corpus/1973-Nixon.txt"
+    },
+    "1977-Carter": {
+        "collection": "inaugural",
+        "fid": "1977-Carter",
+        "filename": "corpus/1977-Carter.txt"
+    },
+    "1981-Reagan": {
+        "collection": "inaugural",
+        "fid": "1981-Reagan",
+        "filename": "corpus/1981-Reagan.txt"
+    },
+    "1985-Reagan": {
+        "collection": "inaugural",
+        "fid": "1985-Reagan",
+        "filename": "corpus/1985-Reagan.txt"
+    },
+    "1989-Bush": {
+        "collection": "inaugural",
+        "fid": "1989-Bush",
+        "filename": "corpus/1989-Bush.txt"
+    },
+    "1993-Clinton": {
+        "collection": "inaugural",
+        "fid": "1993-Clinton",
+        "filename": "corpus/1993-Clinton.txt"
+    },
+    "1997-Clinton": {
+        "collection": "inaugural",
+        "fid": "1997-Clinton",
+        "filename": "corpus/1997-Clinton.txt"
+    },
+    "2001-Bush": {
+        "collection": "inaugural",
+        "fid": "2001-Bush",
+        "filename": "corpus/2001-Bush.txt"
+    },
+    "2005-Bush": {
+        "collection": "inaugural",
+        "fid": "2005-Bush",
+        "filename": "corpus/2005-Bush.txt"
+    },
+    "2009-Obama": {
+        "collection": "inaugural",
+        "fid": "2009-Obama",
+        "filename": "corpus/2009-Obama.txt"
+    },
+    "austen-emma": {
+        "collection": "gutenberg",
+        "fid": "austen-emma",
+        "filename": "corpus/austen-emma.txt"
+    },
+    "austen-persuasion": {
+        "collection": "gutenberg",
+        "fid": "austen-persuasion",
+        "filename": "corpus/austen-persuasion.txt"
+    },
+    "austen-sense": {
+        "collection": "gutenberg",
+        "fid": "austen-sense",
+        "filename": "corpus/austen-sense.txt"
+    },
+    "bible-kjv": {
+        "collection": "gutenberg",
+        "fid": "bible-kjv",
+        "filename": "corpus/bible-kjv.txt"
+    },
+    "blake-poems": {
+        "collection": "gutenberg",
+        "fid": "blake-poems",
+        "filename": "corpus/blake-poems.txt"
+    },
+    "bryant-stories": {
+        "collection": "gutenberg",
+        "fid": "bryant-stories",
+        "filename": "corpus/bryant-stories.txt"
+    },
+    "burgess-busterbrown": {
+        "collection": "gutenberg",
+        "fid": "burgess-busterbrown",
+        "filename": "corpus/burgess-busterbrown.txt"
+    },
+    "carroll-alice": {
+        "collection": "gutenberg",
+        "fid": "carroll-alice",
+        "filename": "corpus/carroll-alice.txt"
+    },
+    "chesterton-ball": {
+        "collection": "gutenberg",
+        "fid": "chesterton-ball",
+        "filename": "corpus/chesterton-ball.txt"
+    },
+    "chesterton-brown": {
+        "collection": "gutenberg",
+        "fid": "chesterton-brown",
+        "filename": "corpus/chesterton-brown.txt"
+    },
+    "chesterton-thursday": {
+        "collection": "gutenberg",
+        "fid": "chesterton-thursday",
+        "filename": "corpus/chesterton-thursday.txt"
+    },
+    "edgeworth-parents": {
+        "collection": "gutenberg",
+        "fid": "edgeworth-parents",
+        "filename": "corpus/edgeworth-parents.txt"
+    },
+    "ep-00-01-17": {
+        "collection": "europarl",
+        "filename": "corpus/ep-00-01-17.en",
+        "id": "ep-00-01-17"
+    },
+    "ep-00-01-18": {
+        "collection": "europarl",
+        "filename": "corpus/ep-00-01-18.en",
+        "id": "ep-00-01-18"
+    },
+    "ep-00-01-19": {
+        "collection": "europarl",
+        "filename": "corpus/ep-00-01-19.en",
+        "id": "ep-00-01-19"
+    },
+    "ep-00-01-21": {
+        "collection": "europarl",
+        "filename": "corpus/ep-00-01-21.en",
+        "id": "ep-00-01-21"
+    },
+    "ep-00-02-02": {
+        "collection": "europarl",
+        "filename": "corpus/ep-00-02-02.en",
+        "id": "ep-00-02-02"
+    },
+    "ep-00-02-03": {
+        "collection": "europarl",
+        "filename": "corpus/ep-00-02-03.en",
+        "id": "ep-00-02-03"
+    },
+    "ep-00-02-14": {
+        "collection": "europarl",
+        "filename": "corpus/ep-00-02-14.en",
+        "id": "ep-00-02-14"
+    },
+    "ep-00-02-15": {
+        "collection": "europarl",
+        "filename": "corpus/ep-00-02-15.en",
+        "id": "ep-00-02-15"
+    },
+    "ep-00-02-16": {
+        "collection": "europarl",
+        "filename": "corpus/ep-00-02-16.en",
+        "id": "ep-00-02-16"
+    },
+    "ep-00-02-17": {
+        "collection": "europarl",
+        "filename": "corpus/ep-00-02-17.en",
+        "id": "ep-00-02-17"
+    },
+    "melville-moby_dick": {
+        "collection": "gutenberg",
+        "fid": "melville-moby_dick",
+        "filename": "corpus/melville-moby_dick.txt"
+    },
+    "milton-paradise": {
+        "collection": "gutenberg",
+        "fid": "milton-paradise",
+        "filename": "corpus/milton-paradise.txt"
+    },
+    "shakespeare-caesar": {
+        "collection": "gutenberg",
+        "fid": "shakespeare-caesar",
+        "filename": "corpus/shakespeare-caesar.txt"
+    },
+    "shakespeare-hamlet": {
+        "collection": "gutenberg",
+        "fid": "shakespeare-hamlet",
+        "filename": "corpus/shakespeare-hamlet.txt"
+    },
+    "shakespeare-macbeth": {
+        "collection": "gutenberg",
+        "fid": "shakespeare-macbeth",
+        "filename": "corpus/shakespeare-macbeth.txt"
+    },
+    "whitman-leaves": {
+        "collection": "gutenberg",
+        "fid": "whitman-leaves",
+        "filename": "corpus/whitman-leaves.txt"
+    }
+}

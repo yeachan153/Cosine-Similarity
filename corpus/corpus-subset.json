@@ -1,0 +1,17 @@
+{
+    "1789-Washington": {
+        "collection": "inaugural",
+        "fid": "1789-Washington",
+        "filename": "corpus/1789-Washington.txt"
+    },
+    "1793-Washington": {
+        "collection": "inaugural",
+        "fid": "1793-Washington",
+        "filename": "corpus/1793-Washington.txt"
+    },
+    "whitman-leaves": {
+        "collection": "gutenberg",
+        "fid": "whitman-leaves",
+        "filename": "corpus/whitman-leaves.txt"
+    }
+}
