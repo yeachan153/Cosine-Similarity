@@ -130,25 +130,3 @@ for i in range(len(a)):
 # `corpus = json.load(open('documents.json', 'r'))` at the top of this file.
 # You note that our system isn't very reliable, and can be improved in
 # many ways. The first thing you would want to do is tackle stop-words.
-#
-# If you look at the vocabulary (print it!) it contains many words like
-# 'and', 'of', 'it', and so on. These are highly frequent in all texts,
-# and not informative for a document's content. There are at least two
-# improvements: (1) remove such words from the vocabulary, or (2) adjust
-# our vectors to be less 'sensitive' to those words.
-#
-# A common approach to (2) is to use so called tf-idf vectors, which stands
-# for (term frequency)-(inverse document frequency). The inverse document
-# frequency roughly punishes words that occur in many of the documents
-# in the corpus. It is fairly easy to extend this assignment to use
-# tf-idf scores instead. If you're interested, look up the Wikipedia page
-# https://en.wikipedia.org/wiki/Tf%E2%80%93idf or ask Bas if you need help.
-
-
-
-
-
-
-
-
-
